@@ -2,7 +2,7 @@ Hello, I'm Charlie.
 [My personal Webpage](https://crgmg.com/charlierg/)
 
 ### My Stats:
-![stats](https://github-readme-stats.vercel.app/api?username=charlierg&theme=tokyonight&card_width=400&hide_title=true&bg_color=DEG,0d1117,0d1117,8b949e&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlierg)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages I use:
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charlierg&theme=tokyonight&hide_title=true&layout=compact&bg_color=DEG,0d1117,0d1117,8b949e&card_width=400&hide_border=true&langs_count=10&exclude_repo=MarioHTML5Hacked)
