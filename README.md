@@ -1,7 +1,2 @@
-Hello, I'm Charlie.
-[My personal Webpage](https://cha.rlierg.com/)
-
-<!---
-charlierg20/charlierg20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey, I'm Charlie.<br>
+I make some cool stuff in C#, PHP and JS. I do stuff at @crgmediagroup. I do a lot of worldbuilding and similar stuff on the side.
